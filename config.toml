@@ -2,8 +2,6 @@ baseURL = "http://fjanus-eu.github.io"
 title = "fjanus.eu blog"
 theme = "hugo-geekblog"
 
-# comment to trigger the build
-
 pluralizeListTitles = false
 
 # Geekblog required configuration
