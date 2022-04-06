@@ -1,0 +1,15 @@
+---
+header:
+  - name: Github Profile
+    icon: gblog_github
+    ref: "https://github.com/fjanus-eu"
+    external: true
+
+footer:
+  - name: Contact
+    icon: gblog_contacts
+    ref: "/about"
+
+  - name: About
+    icon: gblog_email
+    ref: "/about"
